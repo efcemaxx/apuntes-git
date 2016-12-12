@@ -7,3 +7,7 @@ Lista las etiquetas en orden alfabético.
 jjkfnjkasnfjkaf
 fasfafasgasag
 gasgagasgagas
+
+### git tag -l "v1.*"
+
+lista las etiquetas que coincidan con el patron especificado.
