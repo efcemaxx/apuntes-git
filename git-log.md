@@ -6,3 +6,6 @@ muestra el historial de commits.
 fnfnnfjnfqw
 afafafsfqwfqw
 fafqwfsf
+
+git log --decorate --oneline --graph --all
+este comando nios muestra en una sola linea por commit.
