@@ -15,3 +15,7 @@ Sistema de Control de Versiones para el mantenimiento eficiente y confiable de a
 
 
 Esta linea fue creada en la rama master.
+
+
+### Varios Repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
