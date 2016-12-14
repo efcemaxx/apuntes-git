@@ -12,3 +12,6 @@ git remote add origin https://github.com/efcemaxx/apuntes-git.git
 6 hacer push de mis cambios (enviar los commits locales a github) git push origin <nombre de la rama>
 7 crear un pull resquest con la nueva rama de mi repositorio en github
 8 esperar a que el administrador del repositorio original acepte mi pull resquest
+
+### Varios Repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
