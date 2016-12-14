@@ -15,3 +15,10 @@ Sistema de Control de Versiones para el mantenimiento eficiente y confiable de a
 
 
 Esta linea fue creada en la rama master.
+
+
+###Configuracion SSH en windows
+1 ejecutamos el comando ssh-keygen -t rsa -C "email" y damos la ubicacion en donde se generara la llave
+2 email el mismo que github
+3 iniciamos ssh-agent ejecuntando eval "$(ssh-agent -S)"
+4 agregamos llave generada .. el directorio y ya 
